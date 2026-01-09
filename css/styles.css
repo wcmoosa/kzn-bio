@@ -10947,7 +10947,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: linear-gradient(rgba(46, 134, 171, 0.7), rgba(27, 153, 139, 0.7)), url("https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80");
+  background-image: url("../assets/img/KZN-Biokinetics-Reception.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
